@@ -21,6 +21,7 @@ public class MainActivity extends AppCompatActivity {
             public void onClick(View v) {
                 tv1.setText("Good Bye!");
                 ;
+                ;
 
             }
         });
