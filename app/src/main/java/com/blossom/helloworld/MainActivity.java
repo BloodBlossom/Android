@@ -20,7 +20,6 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 tv1.setText("Good Bye!");
-                ;
             }
         });
 
