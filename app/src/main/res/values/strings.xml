@@ -1,3 +1,14 @@
 <resources>
-    <string name="app_name">HelloWorld</string>
+    <string name="app_name">不吐不快</string>
+    <string name="edit_text_1">一起吐槽吧</string>
+    <string name="button_1">发送</string>
+    <string name="text_view1">如何评价2018-2019-1学期北京理工大学大学物理IIA期末考试？</string>
+    <string name="text_view2">\u3000\u3000这套卷子真的太简单了整张卷子我只有两类不会的这也不会那也不会试卷两开花
+        PS：物理试卷的印刷质量是真的好</string>
+    <string name="name">匿名用户</string>
+    <string name="text_view3">赞</string>
+    <string name="time">1</string>
+    <string name="text_view4">我的吐槽</string>
+    <string name="myname">王星煜</string>
+    <string name="anonymous">匿名</string>
 </resources>
